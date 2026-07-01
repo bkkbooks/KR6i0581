@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0581/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0581/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說長壽滅罪護諸童子陀羅尼經
+  identifiers:
+    krp: KR6i0581
+    cbeta: X01n0017
+    cbeta_old_id: X01n0017
+    authorityid: CA0000433
+    json_key: X0017
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0017.xml
+    old_id: X01n0017
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0581_000-X.yaml, hash: 'sha256:d3548c0b4acd5b5c8c21bccc9b676ee4da9070c2dfe9da0e3aa363280cecada1'}
+  - {seq: 1, filename: KR6i0581_001-X.yaml, hash: 'sha256:2cee8bd97e9849d06fa585cbb626fe5a673efda1e336f7768f7970614323d678'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0581_000-X.markers.yaml, hash: 'sha256:e06cacb73d7787dab2cac7f9b2506d53575193b781148829cb577a3a8cdb34aa'}
+  - {seq: 1, role: markers, filename: assets/KR6i0581_001-X.markers.yaml, hash: 'sha256:f1d95b78b44f7fc6e574de8c7ed3ed0d7608bcf0daeca695abaef312241c90ef'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0581_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8466
+  label: 佛說長壽滅罪護諸童子陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:76cdef8faf3f57e83c2f4541eb4bedd08a898a5e9e293aa837d8c1c01472bf0d

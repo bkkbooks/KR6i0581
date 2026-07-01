@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0581/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說長壽滅罪護諸童子陀羅尼經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0017.xml
+    old_id: X01n0017
+hash: sha256:d3548c0b4acd5b5c8c21bccc9b676ee4da9070c2dfe9da0e3aa363280cecada1
