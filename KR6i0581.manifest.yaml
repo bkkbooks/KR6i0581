@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0581_000.yaml, hash: 'sha256:d3548c0b4acd5b5c8c21bccc9b676ee4da9070c2dfe9da0e3aa363280cecada1'}
-  - {seq: 1, filename: KR6i0581_001.yaml, hash: 'sha256:4bf0a764f355b12d0452834bd543e9680978a7ce6edffd5a364e0ea30dded8a4'}
+  - {seq: 1, filename: KR6i0581_001.yaml, hash: 'sha256:2cee8bd97e9849d06fa585cbb626fe5a673efda1e336f7768f7970614323d678'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0581_001.markers.yaml, hash: 'sha256:e764c3f5265d9df5ebf8bb8996c9a05d34c6cf202a1c8e3618c85f6b1b96f30f'}
+  - {seq: 0, role: markers, filename: assets/KR6i0581_000.markers.yaml, hash: 'sha256:b2478cad2cd2bb6b9f875ef066ad3c75cbff98a335cc5bab03837ad78644c372'}
+  - {seq: 1, role: markers, filename: assets/KR6i0581_001.markers.yaml, hash: 'sha256:221e1d02795d9113a7eab58748ca0b061fa5451ef13b4f489ffdaaad6125e628'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說長壽滅罪護諸童子陀羅尼經
   type: juan
   level: 1
-hash: sha256:0bc962c2f41817863320ce50eb5d2fbcfd4b0e2dc0ee29f22d8fd3e396b84714
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8d780b174aed0035940a1ae2c7548d4a26acbe9dc1dd7f316c4de44c12d989bb
